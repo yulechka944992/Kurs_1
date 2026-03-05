@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="anyio" />
+          <option value="build" />
+          <option value="CacheControl" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="cleo" />
+          <option value="colorama" />
+          <option value="crashtest" />
+          <option value="distlib" />
+          <option value="dulwich" />
+          <option value="fastjsonschema" />
+          <option value="filelock" />
+          <option value="findpython" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="installer" />
+          <option value="jaraco.classes" />
+          <option value="jaraco.context" />
+          <option value="jaraco.functools" />
+          <option value="keyring" />
+          <option value="more-itertools" />
+          <option value="msgpack" />
+          <option value="packaging" />
+          <option value="pbs-installer" />
+          <option value="pexpect" />
+          <option value="pkginfo" />
+          <option value="platformdirs" />
+          <option value="poetry" />
+          <option value="poetry-core" />
+          <option value="poetry-plugin-shell" />
+          <option value="ptyprocess" />
+          <option value="pyproject_hooks" />
+          <option value="pywin32-ctypes" />
+          <option value="RapidFuzz" />
+          <option value="requests" />
+          <option value="requests-toolbelt" />
+          <option value="shellingham" />
+          <option value="tomlkit" />
+          <option value="trove-classifiers" />
+          <option value="urllib3" />
+          <option value="virtualenv" />
+          <option value="zstandard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
