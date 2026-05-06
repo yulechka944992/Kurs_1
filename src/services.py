@@ -18,7 +18,7 @@ logger.addHandler(file_handler)
 
 
 def search_transactions(excel_file_path: str, search_query: str) -> str:
-    """"""
+    """Поиск транзакций по строке в описании или категории из Excel файла"""
     try:
         logger.info(f"Поиск: {search_query} в файле {excel_file_path}")
         df = pd.read_excel(excel_file_path)
